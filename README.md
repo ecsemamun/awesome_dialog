@@ -1,16 +1,2 @@
-# dialogs_box
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1](https://github.com/ecsemamun/awesome_dialog/assets/98883704/4c564a11-fa09-4ec7-b5c8-88fd7dcc8bb2)
+![Screenshot_2](https://github.com/ecsemamun/awesome_dialog/assets/98883704/ef2482f4-20b4-4834-a4e9-608e6c3e9cb3)
